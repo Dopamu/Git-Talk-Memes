@@ -10,8 +10,7 @@ This is a meme board made to teach people git
 
 [UH OH Stinky](https://www.youtube.com/watch?v=ZJvH8d2y7Iw)
 
-
-
+[random meme] (images/meme.jpg)
 `![name pour votre meme](put the image in images and reference it here)`
 
 ![J'aime le meme](images/z00merm3m3.jpg)
